@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/mv1742/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/nfshome/mv1742",
+  "password": false,
+  "pid": 59028,
+  "port": 44908,
+  "secure": false,
+  "token": "",
+  "url": "http://127.0.0.1:44908/user/mv1742/"
+}
