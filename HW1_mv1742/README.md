@@ -17,5 +17,5 @@ __
 
 # Screenshot
 
-![Alt text](PUI2018_mv1742/HW1_mv1742/capture1.png)
-![Alt text](PUI2018_mv1742/HW1_mv1742/capture2.png)
+![image](PUI2018_mv1742/HW1_mv1742/capture1.png)
+![image](PUI2018_mv1742/HW1_mv1742/capture2.png)
