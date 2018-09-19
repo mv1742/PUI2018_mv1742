@@ -1,5 +1,5 @@
 
-#Description of setting up my enviroment
+# Description of setting up my enviroment
 
 To set up my environment, I did the steps below:
 1. Access my bash terminal
@@ -15,8 +15,7 @@ c. Type: alias pui2018="cd $PUI2018"
 
 __
 
-#Screenshot
+# Screenshot
 
-![image](PUI2018_mv1742/HW1_mv1742/capture1.png)
-
-![image](PUI2018_mv1742/HW1_mv1742/capture2.png)
+![Alt text](PUI2018_mv1742/HW1_mv1742/capture1.png)
+![Alt text](PUI2018_mv1742/HW1_mv1742/capture2.png)
