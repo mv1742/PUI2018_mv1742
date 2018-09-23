@@ -1,7 +1,7 @@
 # Assignment 1
 
-## Description of Deleting Data
-To set up my environment, I did the steps below:
+## Description of deleting data
+I did the steps below:
 1. Created a file in this repo inside of the folder lab3_mv1742 called test.csv (capture 1)
 2. Commited this file to my repo and took a repo screen shot and a screenshot of the folder lab3_mv1742's history (capture 2)
 3. Typed the commands that allow to remove the file AND ITS HISTORY from the repo.
