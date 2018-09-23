@@ -1,2 +1,2 @@
 
-This is HW2, Assignments 2&3
+This is HW3, Assignments 1&2
