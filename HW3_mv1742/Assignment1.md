@@ -1,5 +1,3 @@
-git clone https://github.com/mv1742/PUI2018_mv1742
-
 # Description of setting up my enviroment
 
 To set up my environment, I did the steps below:
@@ -17,4 +15,3 @@ __
 ![image](PUI2018_mv1742/HW2_mv1742/capture2.png
 
 ![image](PUI2018_mv1742/HW2_mv1742/capture3.png
-
