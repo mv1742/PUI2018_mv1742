@@ -36,4 +36,13 @@ My notebook:
 
 ## Assignment 3: Finish z-test lab and turn it in as a notebook .
 
-Used Z test to understand if a (fictitious) implementation of an alternative bus route for (fictitious) bus line X8 improves circulation. See hypothesis and interpretation of Z value in the notebook.
+Used Z test to understand if a (fictitious) implementation of an alternative bus route for (fictitious) bus line X8 improves circulation. 
+
+Null hypothesis:
+H0: the commute time is the same or longer with the new bus route as it was beforeTold ~ N(μ=36, σ=6)
+
+Alternative
+Ha: the commute time is shorter with the new bus route than it was before: Tnew < ToldTold ~ N(μ=36, σ=6)α = 0.05
+
+Z-test
+This is 2.5 sigma away from the mean, which means it is sufficient given that we have a 2 sigma threshold.
