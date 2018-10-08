@@ -18,8 +18,6 @@ Rufei explained how to generate 100 samples of different RANDOM sizes for assign
    
 __Extra Credit__: FITTED a gaussian to the distribution of means            
 
-### GRADING: 
-
 My notebook: 
 - generates the distributions, correctly generated for each of the 5 ditributions, all with same mean.
 - displays all plots: a scatter plot per distribution and a histogram of all distributions, usual rules for plotting applying: visible and readable axes, title, legend, caption. 
