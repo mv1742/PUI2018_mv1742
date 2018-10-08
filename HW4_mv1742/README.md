@@ -36,8 +36,9 @@ My notebook:
 
 NULL HYPOTHESIS:
 Subscribers bike on weekends is the same or higher than the proportion of customers biking on weekends
-_$H_0$: $\frac{S{\mathrm{weekend}}}{S{\mathrm{total}}} <= \frac{C{\mathrm{weekend}}}{C_{\mathrm{total}}}$
-_$H_1$: $\frac{S{\mathrm{weekend}}}{S{\mathrm{total}}} > \frac{C{\mathrm{total}}}{C_{\mathrm{total}}}$
+_H_0: \S_weekend / S_total <= C_weekend/C_total
+_H_1:S_weekend/S_total > C_weekend/C_total
+
 I will use a significance level  $\alpha=0.05$
 which means i want the probability of getting a result at least as significant as mine to be less then 5%
 I am starting with a single month of data: reading data from citibike csv file from June 2014
