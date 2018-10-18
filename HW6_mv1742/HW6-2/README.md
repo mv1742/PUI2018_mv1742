@@ -3,7 +3,7 @@
 # Week 6 PUI Homework
 ## Assignment 2: Literature choices of statistical tests
 
-* I worked with Max Humphreys on this assignment.
+* I worked with Max Humphreys and Amber YuShi on this assignment.
 
 | **Statistical Analyses**  |  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **$H_0$** | **$\alpha$** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
@@ -21,6 +21,7 @@ Include the main plot of the paper (the plot that summarized the result)
 Figure 1. Parameters of respiratory analysis of controls, patients and relatives are presented.
 The pattern of significantly altered values of patients in comparison to controls is represented in A–F. The increased breathing rate of patients is presented in A. As shown in B, the inspiratory-to-expiratory time ratio is increased in patients indicating a reduction of the exhalation time. Patients breathe shallowly as indicated in C. Most pronounced are increased frequency bands of respiration as indicated in D–F. Boxes indicate data between the 25th and 75th percentile with the horizontal bar reflecting the median (□ = mean; - = 1st and 99th percentile; x = minimum and maximum of data). Significant differences of Bonferoni corrected pair-wise comparisons are indicated: * p<.05; ** p<.01; *** p<.001
 ![mobile_phone_and_mental_wellbeing](https://user-images.githubusercontent.com/41444592/47116281-2fad9100-d22f-11e8-8c1d-1ee8dc09a554.png)
+
 Table 2. Results for multiple linear regression model predicting mental well-being.
 
 
