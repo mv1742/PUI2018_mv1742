@@ -16,11 +16,11 @@
 # Other Statistical Test Figures (Ancova, Mancova, Spearman's rank)
  Include the main plot of the paper (the plot that summarized the result)
 
-![Eyes_test_and_KDEF](MANOVA.png)
+![Eyes_test_and_KDEF](MANCOVA.png)
 **Fig 1** Eyes Test and KDEF Test performance
 
 ### Correlation figure
-![performedactions](Correlation.png)
+![performedactions](Correlation2.PNG)
 **Fig 2** Amountofperformedactionsin themimicrytask.Errorbarsrepresentstandarderrorsof themea.
 
 ## Logistic Regresssion Figure
