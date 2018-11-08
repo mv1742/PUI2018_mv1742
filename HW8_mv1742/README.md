@@ -1,3 +1,5 @@
+I worked with Mark Bauer.
+
 ## Assignment 1:
 
 ![Alt text](/New_York_City.png)
