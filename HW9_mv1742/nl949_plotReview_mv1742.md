@@ -3,7 +3,7 @@
 
 Dear Nicholas,
 
-![image](LiCalzi'splot.png)
+![image](LiCaizi'splot.png)
 
 ## CLARITY
 
