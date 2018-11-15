@@ -3,6 +3,8 @@
 
 Dear Nicholas,
 
+I refer to your plot from HW8 shown below:
+
 ![image](LiCaizi'splot.png)
 
 ## CLARITY
