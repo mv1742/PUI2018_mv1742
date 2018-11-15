@@ -6,6 +6,7 @@
 
 The title could have used a clear format for the date. e.g. "September 2014"
 It is not clear what the dashes mean (error bars?)
+The legend obstructs the data. Make sure to put the legend where the data visualization is not compromised.
 
 ## ESTHETIC
 
