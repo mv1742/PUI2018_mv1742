@@ -1,6 +1,6 @@
 # xc1454_plotReview_mv1742
 
-![image](darui'splot.png)
+![image](Darui'splot.png)
 
 ## CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous? 
 
@@ -15,6 +15,4 @@ https://github.com/fedhere/UInotebooks/blob/master/slides2018/UI7_PUI2018.pdf
 
 ## HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
 The scale of the axis is good.
-However it would be good to have the bars for each month next to each other to compare their magnitude.
-Something like this:
-![image](notstacked.png)
+However it would be good to have the bars for each month next to each other (not stacked) to compare their magnitude.
