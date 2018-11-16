@@ -9,4 +9,4 @@ as per the professor's suggestions.
 Done. Worked with Mark Bauer.
 
 # Assignment 3
-Worked with Mark Bauer, Kate Cauley, and Alya Kassim.
+Not finished. I applied for time extension (72hours). Please check my github after Saturday :D. 
