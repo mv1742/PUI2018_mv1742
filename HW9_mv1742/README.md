@@ -8,5 +8,5 @@ as per the professor's suggestions.
 # Assignment 2
 Done. Worked with Mark Bauer.
 
-# Assignment 
+# Assignment 3
 Worked with Mark Bauer, Kate Cauley, and Alya Kassim.
