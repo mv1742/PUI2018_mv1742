@@ -6,7 +6,13 @@ Nicholas W LiCalzi, nl949, nlicalzi (link here: https://github.com/mv1742/PUI201
 as per the professor's suggestions.
 
 # Assignment 2
-Done. Worked with Mark Bauer.
+Plotted WLS and OLS. Worked with Mark Bauer.
 
 # Assignment 3
-Not finished. I applied for time extension (72hours). Please check my github after Saturday :D. 
+Worked individually.
+
+I applied for time extension (72hours). Submitted on Saturday 17th. Please check my github after Saturday :D. 
+
+1  DATA:
+2  exploration
+3  Modeling
