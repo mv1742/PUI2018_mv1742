@@ -3,7 +3,7 @@
 Worked with Max, Mark, and Urwa.
 
 #### Part I
-Max provided this very useful formula:
+Max Humphreys provided this very useful formula:
 np.where(mta_all<threshhold[1])
 #### Part II
 I did it by myself 
