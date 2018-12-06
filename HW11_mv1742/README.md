@@ -21,7 +21,7 @@ https://github.com/yunhecui/PUI2018_mv1742/blob/master/HW8_mv1742/mv1742_plotRev
 
 Improved plot is plotted below:
 
-![image](download.png)
+![image](download_1.png)
 
 ### Figure 1. presented above shows the estimated reduction in tons of GHG emissions associated (MT) per ZIP CODE
 The City’s Long-Term Sustainability Plan, PlaNYC, calls for City government to reduce greenhouse gas emissions produced by municipal operations 30% by 2017. A large part of this effort is retrofitting municipal buildings to become more energy efficient. This dataset lists energy efficiency projects at City buildings that are complete or in progress. Projects are listed by address, building name, and agency, and the dataset includes the estimated reduction in tons of GHG emissions associated with the project.
