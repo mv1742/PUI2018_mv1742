@@ -12,14 +12,7 @@ Mark Bauer and Urwa Muaz helped me with the following functions:
 
 np.tile
 
-def getRegCoeff(Y):
-    if Y.std() > 0:
-        X = sm.add_constant(np.array(range(len(Y))))
-        mod = sm.OLS(Y,X).fit()
-        return mod.params[0],mod.params[1]
-    else : 
-        return (np.nan,np.nan)
-
+getRegCoeff(Y)
 
 # Assignment 2
 
