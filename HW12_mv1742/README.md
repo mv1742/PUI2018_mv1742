@@ -7,6 +7,10 @@ Did all of the HW together with Mark Bauer, Timur Murkhtarov, Alia Kassem, and S
 Assignment 1 was about studying periodicity in time-series using Fourier transformation.
 Fourier can transform the power of a time series.
 
+Annual periodicity makes sense since there are annual events once a year like Christmas, Thanksgiving, and other holidays that show same patters annually. 
+
+It is possible that the maximum power comes from a line that has particular ridership once a year where ridership increases considerably  for this line, or other touristic events that have particular behaviour every year.
+
 ## Assignment 2
 
 Comparison of findings from two clustering methods
