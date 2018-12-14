@@ -1,10 +1,8 @@
-# Assignment 1
+# HW12
 
-I did it by myself
+Did all of the HW together with Mark Bauer, Timur Murkhtarov, Alia Kassem, and Sarah Aita.
 
-# Assignment 2
-
-Let's see how it goes.
+## Assignment 1
 
 
-$$ \mathcal{L}(\beta_j; y, \alpha) = \sum_{i=1}^n y_i ln \left ( \frac{\alpha exp(X_i'\beta)}{1+\alpha exp(X_i'\beta)} \right ) - \frac{1}{\alpha} ln(1+\alpha exp(X_i'\beta)) + ln \Gamma (y_i + 1/\alpha) - ln \Gamma (y_i+1) - ln \Gamma (1/\alpha) $$
+## Assignment 2
